@@ -7,7 +7,7 @@ Supports images, audio and video embeddings, and Leaflet TileLayer/geojson overl
 </p>
 
 ## Live links (replace with your own)
-- Leaflet Map https://vasfalg.github.io/storymap-1/
+- Leaflet Map https://vasfalg.github.io/hartford-storymap-1/
 - Google Sheets template https://docs.google.com/spreadsheets/d/1saH6O0xCVbXikwnAQ3bCCWPOWxzD8MowZdrzPAItSdQ/edit?usp=sharing
 
 ## Create Your Own
